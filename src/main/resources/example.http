@@ -1,0 +1,3 @@
+### GET request to example server
+GET localhost:8080/books/id/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiUk9MRV9BRE1JTiIsInN1YiI6ImFkbWluIiwiaWF0IjoxNzcwNzIzNjczLCJleHAiOjE3NzA3MjM3MDl9.BkK2uxuSb_gT6-bcjlhKG9rXW1-mLtEyWEGn5h3Ppuo
